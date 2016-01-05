@@ -1,6 +1,6 @@
 # Predicting China Box Office Revenue Based on Taiwan Box Office Office
 
-##### This Reopsitory only contains a portion of the project "Predicting China Box Office Revenue Based on Taiwan Box Office Office". The entire project is in collaboration with Chen Yu-Fang, 李童宇, 陳毅寰, Dimitri Cayard and Jevon Mckenzie
+##### This Reopsitory only contains a portion of the project "Predicting China Box Office Revenue Based on Taiwan Box Office Office". The entire project is in collaboration with Chen Yu-Fang, 李童宇, 陳毅寰, Dimitri Cayard and Jevon Mckenzie (not yet on master branch. Needs to be cleaned up.On working branch branch jevon.
 
 ## Scraping data from the following websites to predict China Box Office Revenue:
 
