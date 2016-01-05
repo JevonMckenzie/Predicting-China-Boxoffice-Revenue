@@ -17,5 +17,4 @@ class Movie
   attribute :num_exp_votes, String
   attribute :actual_rating, String
   attribute :num_actual_votes, String
-  #attribute :num_trailer, String
 end
